@@ -29,7 +29,7 @@ A simple, well-documented health information system for managing clients and hea
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/health-info-system.git
+git clone https://github.com/Agostinejohn/Health_Information_system.git
 cd health-info-system
 
 # Create a virtual environment
@@ -63,7 +63,7 @@ python app.py
 ```json
 POST /clients
 {
-  "name": "Jane Doe",
+  "name": "John Maubi",
   "age": 32
 }
 ```
@@ -105,15 +105,13 @@ The system is structured into clearly defined components:
 
 You can view a demonstration of the API in action via:
 
-- [ ] Screenshots (Postman requests and responses)
-- [ ] [Optional] Short video walkthrough (1–2 mins)
-- [ ] [Optional] Live demo (hosted link)
+This link:
 
-*(Add links or images here before submission)*
+https://github.com/Agostinejohn/Health_Information_system/blob/main/Health_Infor_System_API_Testing.pdf
 
 ---
 
-## 🧪 Testing (Optional Scope)
+## 🧪 Testing 
 
 Unit tests were considered using `unittest` or `pytest` for:
 
