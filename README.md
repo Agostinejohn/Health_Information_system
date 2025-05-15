@@ -1,7 +1,7 @@
 
 # 🏥 Health Information System API
 
-A simple, well-documented health information system for managing clients and health programs — built with Flask. Designed for the Software Engineer Internship challenge at the Centre for Epidemiological Modelling and Analysis (CEMA).
+A simple, well-documented health information system for managing clients and health programs — built with Flask. 
 
 ---
 
@@ -133,16 +133,5 @@ The project uses a `.gitignore` file to exclude:
 
 This ensures the repository remains clean and secure.
 
----
 
-## 🙏 Acknowledgment
 
-This project was developed as part of the selection process for the Software Engineering Internship at the Centre for Epidemiological Modelling and Analysis (CEMA). Thank you for the opportunity to demonstrate my skills.
-
----
-
-## 👨‍💻 Author
-
-**John Maubi**  
-📧 cornelljohn262@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/john-m-89813824b)
